@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ArsonJames (Pronounds he/they).
-- 👀 I’m interested in IIoT and machine learning. 
+- 👋 Hi, I’m @ArsonJames (Pronounds they/them/he/xe).
+- 👀 I’m interested in Stardew valley modding. 
 - 🌱 I’m currently learning basic git. 
 
 
